@@ -1,0 +1,96 @@
+.navbar {
+  float: right;
+}
+.font-primary {
+  color: #00abae;
+}
+.font-primary {
+  color: #00abae;
+}
+
+.title.icon {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+}
+.navbar a {
+  padding: 10px;
+  margin-top: -30px;
+  text-decoration: none;
+}
+.navbar-portfolio {
+  text-decoration: none;
+  font-size: 35px;
+}
+nav a {
+  justify-content: flex-end;
+}
+.main  .profile {
+  position: absolute;
+  width: 30px;
+  height: 80px;
+  left: 932.47px;
+  top: 190.36px;
+}
+.image_skills {
+    display: flex;
+
+
+}
+h1 .font{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.main .img_profile img{
+    width: 50%;
+    margin-left: 500px;
+}
+/* .projects{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    float: left;
+} */
+/* .buttons {
+    display: flex;
+
+}
+.buttons h3{
+    background-color: #00abae;
+    word-spacing: 5px;
+} */
+.para2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    
+}
+.part1{
+    width: 50%;
+    
+}
+.part2{
+    width: 50%;
+    
+}
+.part2 img{
+    width: 100%;
+}
+.buttons button{
+    background-color: #00abae;
+    padding: 10px;
+}
+.main .para{
+    display: flex;
+}
+.navbar {
+    float: right;
+    margin-top: -30px;
+}
+.footer{
+    text-align: center;
+    margin-top: 34px;
+}
